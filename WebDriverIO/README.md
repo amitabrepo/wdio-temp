@@ -7,6 +7,9 @@ Chrome browser 110
 
 🔨 Running the project:
 Clone the repo - main branch
+
 CD into the WebDriverIO folder
+
 Install dependencies running npm install
+
 Run npm run wdio
