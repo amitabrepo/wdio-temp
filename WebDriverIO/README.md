@@ -10,6 +10,6 @@ Clone the repo - main branch
 
 CD into the WebDriverIO folder
 
-Install dependencies running npm install
+Install dependencies: npm i
 
-Run npm run wdio
+Run test: npm run wdio
