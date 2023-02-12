@@ -2,6 +2,7 @@
 Multi-browser framework for End-to-End Automation Testing with WebdriverIO
 
 ✨ Pre-requisites:
+
 NodeJs
 
 Chrome browser v110
